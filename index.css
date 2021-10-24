@@ -1,1 +1,7 @@
+body {
+    font-family: 'Verdana', sans-serif;
+}
 
+.bg-custom {
+    background-color: rgb(42, 40, 40);
+}
